@@ -1,0 +1,7 @@
+{
+  "name": "Kölner Grün-Events 2026",
+  "description": "An interactive map and event browser for the 2026 nature program by the City of Cologne, featuring guided tours, workshops, and exhibitions in parks and forests.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
